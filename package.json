@@ -4,8 +4,8 @@
   "description": "Audio Video calling library in nodejs",
   "main": "server.js",
   "scripts": {
-    "dev": "nodemon server",
-    "prod": "nodemon index"
+    "dev": "node server",
+    "prod": "node index"
   },
   "author": "Rahul & Sahil",
   "license": "ISC",
